@@ -39,11 +39,11 @@
 :white_check_mark: 장바구니를 통한 일괄 구매
 
 * 관리자 부분
-* :white_check_mark: 회원 권한 별 기능부여 (USER, ADMIN)
-* :white_check_mark: 회원CRUD
-* :white_check_mark: 상품CRUD
-* :white_check_mark: 문의사항CRUD
-* :white_check_mark: 댓글CRUD
+:white_check_mark: 회원 권한 별 기능부여 (USER, ADMIN)
+:white_check_mark: 회원CRUD
+:white_check_mark: 상품CRUD
+:white_check_mark: 문의사항CRUD
+:white_check_mark: 댓글CRUD
 
 
 ## :red_circle: PRIVIEW
