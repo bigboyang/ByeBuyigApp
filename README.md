@@ -59,7 +59,7 @@
 
 ## :red_circle: PRIVIEW
 
-이미지 넣자
+<img src="">
 
 
 ## :large_blue_circle: 설명
