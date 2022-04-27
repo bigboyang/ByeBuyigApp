@@ -18,14 +18,21 @@
 
 
 > React를 사용한 프론트 엔드 구현
->
 > Redux, Redux-thunk 를 통한 상태관리
+> 
+- Redux를 통한 데이터 상태관리
+- Rudux, Axios를 통한 비동기 요청
+- RefreshToken관련 보안 처리
 >
 > Spring-boot, Flask 를 사용한 백엔드 서버 구현
 >
 > JPA, MySQL을 사용한 DB 구성
 >
 > S3, CloudFront를 사용한 호스팅
+>
+- S3버킷 파일 관리
+- CloudFront 환경관리 및 CICD
+
 
 ## :large_blue_circle: 기능
 ### : 사용자 부분
