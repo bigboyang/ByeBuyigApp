@@ -17,8 +17,10 @@
 * AWS - S3, CloudFront, Github Action
 
 
+> 크롤링을 통한 상품정보 DB입력
+>
 > React를 사용한 프론트 엔드 구현
-> 
+>
 > Redux, Redux-thunk 를 통한 상태관리 
 > 
 > Rudux, Axios를 통한 비동기 요청
