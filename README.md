@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+# 프로젝트명: AI를 활용한 쇼핑몰
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## :muscle: STACK
 
-In the project directory, you can run:
+<!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Redux](https://img.shields.io/badge/reduxthunk-%23593d88.svg?style=for-the-badge&logo=reduxthunk&logoColor=white)
+![Java](https://img.shields.io/badge/java-6DA55F?style=for-the-badge&logo=java&logoColor=white)
+![spring-boot](https://img.shields.io/badge/spring-6DA55F?style=for-the-badge&logo=spring&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) -->
 
-### `npm start`
+* BE - Java, Spring Boot, Spring Security, Spring WebClient, JPA, QueryDSL, JWT
+* FE - JavaScript, React, Redux, Axios, Hooks, aws-sdk
+* AI - Python, Flask, Numpy, Pandas, Tensorflow, VGGNet
+* AWS - S3, CloudFront, Github Action
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+> React를 사용한 프론트 엔드 구현
+>
+> Redux, Redux-thunk 를 통한 상태관리
+>
+> Spring-boot, Flask 를 사용한 백엔드 서버 구현
+>
+> JPA, MySQL을 사용한 DB 구성
+>
+> S3, CloudFront를 사용한 호스팅
 
-### `npm test`
+## :large_blue_circle: 기능
+* 사용자 부분
+:white_check_mark: JWT토큰 로그인,회원가입
+:white_check_mark: 이미지,텍스트 검색
+:white_check_mark: 상품추천
+:white_check_mark: 상품 상세보기
+:white_check_mark: 카테고리 별 상품 보기
+:white_check_mark: 댓글보기 및 작성
+:white_check_mark: 개인정보 수정
+:white_check_mark: 장바구니를 통한 일괄 구매
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* 관리자 부분
+* :white_check_mark: 회원 권한 별 기능부여 (USER, ADMIN)
+* :white_check_mark: 회원CRUD
+* :white_check_mark: 상품CRUD
+* :white_check_mark: 문의사항CRUD
+* :white_check_mark: 댓글CRUD
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## :red_circle: PRIVIEW
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+이미지 넣자
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## :large_blue_circle: 설명
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```
+결제 기능을 제외한 모든 기능을 구현한 쇼핑몰프로젝트
+React와 Redux로 프론트 상태관리를 진행했으며 메인서버인 Spring와 AI서버는 Flask를 활용해 추천,유사이미지 검색 기능을 구현하였다
+```
