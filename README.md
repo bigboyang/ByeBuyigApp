@@ -59,7 +59,11 @@
 
 ## :red_circle: PRIVIEW
 
-<img src="https://user-images.githubusercontent.com/87364146/165513342-bacb805d-f68e-437f-a8f4-96d049e92aa5.gif" width="300px" height="200px">
+<img src="https://user-images.githubusercontent.com/87364146/165516125-9541bba4-d2cc-44bf-bd7b-8c78cc16640c.gif" >
+<img src="https://user-images.githubusercontent.com/87364146/165516140-652e12a4-5668-4a5c-a192-02cc592d518d.gif" >
+<img src="https://user-images.githubusercontent.com/87364146/165516151-d9d0ed47-f63a-42b4-823c-917f03849218.gif" >
+<img src="https://user-images.githubusercontent.com/87364146/165516156-8f7bf75c-7e98-4f2b-8235-e3e73429d995.gif" >
+<img src="https://user-images.githubusercontent.com/87364146/165516162-1807fe98-bb4d-4aae-bedd-4113c049687d.gif" >
 
 
 ## :large_blue_circle: 설명
