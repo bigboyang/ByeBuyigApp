@@ -28,7 +28,7 @@
 > S3, CloudFront를 사용한 호스팅
 
 ## :large_blue_circle: 기능
-* 사용자 부분
+### : 사용자 부분
 :white_check_mark: JWT토큰 로그인,회원가입
 :white_check_mark: 이미지,텍스트 검색
 :white_check_mark: 상품추천
@@ -37,8 +37,8 @@
 :white_check_mark: 댓글보기 및 작성
 :white_check_mark: 개인정보 수정
 :white_check_mark: 장바구니를 통한 일괄 구매
-
-* 관리자 부분
+<br/>
+### : 관리자 부분
 :white_check_mark: 회원 권한 별 기능부여 (USER, ADMIN)
 :white_check_mark: 회원CRUD
 :white_check_mark: 상품CRUD
