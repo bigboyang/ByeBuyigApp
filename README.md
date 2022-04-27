@@ -59,7 +59,7 @@
 
 ## :red_circle: PRIVIEW
 
-<img src="">
+<img src="https://user-images.githubusercontent.com/87364146/165513342-bacb805d-f68e-437f-a8f4-96d049e92aa5.gif" width="300px" height="200px">
 
 
 ## :large_blue_circle: 설명
